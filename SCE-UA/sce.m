@@ -27,7 +27,7 @@ nVar = 10;              % Number of Unknown Variables
 VarSize = [1 nVar];     % Unknown Variables Matrix Size
 
 VarMin = -10;           % Lower Bound of Unknown Variables
-VarMax =  10;           % Upper Bound of Unknown Variables
+VarMax = 10;           % Upper Bound of Unknown Variables
 
 
 %% SCE-UA Parameters
